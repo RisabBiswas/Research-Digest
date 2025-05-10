@@ -1,4 +1,7 @@
 # 📝 Annotated Research Papers
+<p align="center">
+  <img src="/assets/Readme.png" alt="Annotated Research Papers Banner" width="80%">
+</p>
 
 A curated collection of **annotated research papers** and **implementation notes** across key areas in AI including:
 
