@@ -30,7 +30,7 @@ Have a paper suggestion or want to add your own notes? PRs are welcome! Let's ma
 ## 📬 Connect
 
 Feel free to reach out or discuss on:
-- 💼 [LinkedIn]((https://www.linkedin.com/in/risab-biswas/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/risab-biswas/)
 - 🧠 [Personal Site](https://risabbiswas.github.io/)
 ---
 
