@@ -1,4 +1,4 @@
-# 📚 Annotated Research Papers
+# 📝 Annotated Research Papers
 
 A curated collection of **annotated research papers** and **implementation notes** across key areas in AI including:
 
@@ -27,7 +27,7 @@ Have a paper suggestion or want to add your own notes? PRs are welcome! Let's ma
 ## 📬 Connect
 
 Feel free to reach out or discuss on:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/risab-biswas/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/risab-biswas/))
 - 🧠 [Personal Site](https://risabbiswas.github.io/)
 ---
 
